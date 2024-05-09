@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "陈"
-description              : "电磁无损检测"
+title                    : "陈皓枫"
+description              : "电阻抗成像"
 repository               : "Irobot-chf/Irobot-chf.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "陈皓枫"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
+  bio              : "中国科学技术大学"
+  location         : "安徽 合肥"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=IBlC5j4AAAAJ&hl=zh-CN"
+  email            : "hfchen95@mail.ustc.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Haofeng-Chen-2/research"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : #"tangjyan"
   google_plus      :
   keybase          :
   instagram        :
