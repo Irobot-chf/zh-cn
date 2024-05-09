@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "陈"
 description              : "电磁无损检测"
-repository               : "Irobot-chf/Irobot-chf2.github.io"
+repository               : "Irobot-chf/Irobot-chf.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "陈皓枫"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "华中科技大学"
   location         : "湖北 武汉"
