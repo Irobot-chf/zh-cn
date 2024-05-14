@@ -34,10 +34,19 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2018.09 - 2024.06 (Expected)*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/ustc_logo.png" width="23pt"></a> 中国科学技术大学 合肥物质研究院, 安徽合肥, 硕博连读
+- *2018.09 - 2024.06 (Expected)*, <a href="https://www.ustc.edu.cn/"><img class="svg" src="/images/ustc_logo.png" width="23pt"></a> 中国科学技术大学 合肥物质研究院, 安徽合肥, 硕博连读
 - *2014.09 - 2018.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/xidian_logo.png" width="20pt"></a> 西安电子科技大学 机电工程学院, 陕西西安, 本科
  
 <span class='anchor' id='-lwzl'></span>
+
+
+# 🔥 新闻
+- 2019年9月26日-29日，EIT课题小组参加“超能勇士-2019” 先进技术展并获得优胜奖。[[报道]](http://www.bihfcas.net/xw/19.9.26.html)
+- 2019年12月22日，陈皓枫，王鹏参加“中国科大校园算法邀请赛”并获得二等奖。[[报道]](http://www.bihfcas.net/xw/19.12.22.html)
+- 2021年7月13日，陈皓枫、马刚、杨轩轩获得　“互联网+”　创新创业大赛安徽省赛金奖、科学岛研究生创新创业大赛二等奖等荣誉。[[报道]](http://www.bihfcas.net/xw/21.07.13.html)
+- 2022年12月4日—12月9日，陈皓枫、杨轩轩参加2022IEEE ROBIO国际会议。[[报道]](http://www.bihfcas.net/xw/22.12.04.html)
+- 2023年10月27日—10月29日，王晓杰、陈皓枫参加2023第十六届中国智能机器人大会(CCIR)。[[报道]](http://www.bihfcas.net/xw/23.10.27.html)[[相关报道1]](http://www.iamt.cas.cn/zxzx/gzdt/202311/t20231102_762488.html)[[相关报道2]](http://www.iim.cas.cn/xwzx_2021/dtjx/202311/t20231102_762496.html)
+- 2023年，陈皓枫参加2024年IEEE机器人与自动化国际会议，并做了线上口头报告。
 
 # 📝 论文专利
 
@@ -65,25 +74,54 @@ redirect_from:
 </div>
 </div>
 
+-	H. Chen, Ma G, Wang P, et al. A Bio-Impedance Analysis Method Based on Human Hand Anatomy for Hand Gesture Recognition [J]. IEEE Transactions on Instrumentation and Measurement, 2021, 70: 1-10.
+-	H. Chen, Yang X, Wang P, et al. A Large-Area Flexible Tactile Sensor for Multi-Touch and Force Detection Using Electrical Impedance Tomography [J]. IEEE Sensors Journal, 2022, 22(7): 7119-7129.
+-	H. Chen, Yang X, Geng J, et al. A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method [J]. ACS Applied Electronic Materials, 2023, 5(3): 1451-1460.
+-	H. Chen, Yang X, Ma G, et al. Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation [J]. IEEE Robotics and Automation Letters, 2024, 9(3): 2335 - 2342.
+-	Ma G, H. Chen, Wang P, et al. Multi-Frame Constrained Block Sparse Bayesian Learning for Flexible Tactile Sensing Using Electrical Impedance Tomography [J]. IEEE Transactions on Computational Imaging, 2022, 8: 438-448.
+-	Ma G, H. Chen, Wang P, et al. A two-electrode frequency-scan system for gesture recognition [J]. Mechatronics, 2023, 94: 103039.
+-	Wang P, H. Chen, Ma G, et al. Deep learning scheme PSPNet for electrical impedance tomography[C]// Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2021. SPIE,2021: 223-230.
+-	H. Chen, Yang X, Geng J, et al. A convolutional neural network based electrical impedance tomography method for skin-like hydrogel sensing[C]// 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 5-9 Dec. 2022.2022: 178-183.
+-	H. Chen, Yang X, Ma G, et al. Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN [C]//2024 IEEE International Conference on Robotics and Automation (ICRA), 2023. （已接收）
 
-
+  
+<!--
 ### 中文
 ---
-
+-->
 
 
 ### 专利
 ---
-
-
-
-
+*	王晓杰, 陈皓枫, 杨轩轩, 耿加露, 马刚. 一种基于电阻抗成像的一体化触觉传感器的检测方法 [P]. 专利号：ZL202210132777.8.（发明专利，已授权）
+*	陈皓枫, 杨轩轩, 马刚, 王晓杰, 耿加露. 一种低成本且便携式的电阻抗成像电路 [P]. 专利号：ZL202222593360.X.（实用新型，已授权）
+*	王晓杰, 王玉成, 马刚, 陈皓枫, 王鹏, 曹洪新, 赵娜娜. 一种融合生物电阻抗信息和肌电信息的手势识别系统 [P]. 专利号：ZL202010390176.8.（发明专利，已授权）
+*	耿加露, 陈皓枫, 王晓杰, 杨轩轩. 一种高弹性水凝胶传感器及其制备方法 [P]. 专利号：ZL202111340087.3.（发明专利，已授权）
+*	王晓杰, 陈皓枫, 杨轩轩, 马刚. 基于电阻抗成像的多模态柔性触觉传感器及触觉感知方法 [P]. 专利号：CN202311535146.1.（发明专利，实审）
 
 
 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
+- _2015年_，陕西省第十次大学生高等数学（本科）竞赛，省级二等奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/高数竞赛.jpg)
+- 2016年，TI杯陕西省西安五校联赛，校级二等奖
+- 2017年，第五届全国大学生工程训练综合能力竞赛（环形避障组）陕西赛，省级一等奖 [证明](https://irobot-chf.github.io/hfchen.github.io//images/工程训练获奖证明.pdf)
+- 2019年，中国科大校园算法邀请赛获得二等奖，第四名 [证书](https://irobot-chf.github.io/hfchen.github.io//images/1中科大算法大赛.jpg) [现场](https://irobot-chf.github.io/hfchen.github.io//images/微信图片_20240228191953.jpg)
+- 2019年，第七届“发现杯”全国大学生互联网软件设计大奖赛西部赛区二等奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/2发现杯二等奖.jpg)
+- 2019年，EMG-EIT 感知器结合 EIT 与肌电信号对手势进行识别，参加陆装举办的“超能勇士-2019” 单兵穿戴技术与外骨骼系统挑战赛（深圳赛区）获得优胜奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/3超能勇士1.jpg)
+- 2020年，第六届安徽省"互联网+"大学生创新创业大赛 安徽省高教主赛道银奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/4第六届互联网加安徽省银奖.jpg)
+- 2021年，第七届安徽省“互联网+”大学生创新创业大赛 安徽省高教主赛道金奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/2021互联网金.png)
+- 2021年，科学岛研究生双创中心首届研究生创新创业大赛二等奖 [证书](https://irobot-chf.github.io/hfchen.github.io//images/6科学岛创新奖.jpg)
+- 2023年，第十六届中国智能机器人大会[优秀论文](http://www.bihfcas.net/xw/23.10.27.html)
+- 2023年，中国科学院合肥物质院2023年度“悦群品学兼优奖学金”博士生一等奖[[报道]](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/t20231215_6943279.html) [名单](https://www.hf.cas.cn/sbpy/yjsc/gsgk/pyxxgk/202312/P020231215539828540094.pdf)
+
+---
+- 2016年，校优秀学生标兵 [证书](https://irobot-chf.github.io/hfchen.github.io//images/优秀学生标兵.jpg)
+- 2018年，校优秀毕业生 [证书](https://irobot-chf.github.io/hfchen.github.io//images/优秀毕业生.jpg)
+- 2022年，安徽省研究生“创新创业之星”的荣誉称号 [证书](https://irobot-chf.github.io/hfchen.github.io//images/8 创新创业之星.jpg)
+- 2022年，常州先进制造技术研究所2021年度秀研究生 [证书](https://irobot-chf.github.io/hfchen.github.io//images/2先进所优秀研究生.png)
+  
 <!--
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
@@ -92,6 +130,10 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
+- *2022.12*, 2022年IEEE国际机器人与仿生学会议, 云南西双版纳, 口头报告 [参考](http://www.bihfcas.net/xw/22.12.04.html)
+- *2023.10*, 第十六届中国智能机器人大会, 上海, 口头报告 [参考](http://www.bihfcas.net/xw/23.10.27.html)
+- *2024.05*，2024年IEEE机器人与自动化国际会议，日本横滨 [报告截图]()
+- 
 <!--
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
@@ -99,8 +141,10 @@ redirect_from:
 -->
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
+
 <!--
+# 💻 工作实习
+
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
