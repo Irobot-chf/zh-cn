@@ -47,6 +47,7 @@ redirect_from:
 - 2022年12月4日—12月9日，陈皓枫、杨轩轩参加2022IEEE ROBIO国际会议。[[报道]](http://www.bihfcas.net/xw/22.12.04.html)
 - 2023年10月27日—10月29日，王晓杰、陈皓枫参加2023第十六届中国智能机器人大会(CCIR)。[[报道]](http://www.bihfcas.net/xw/23.10.27.html)[[相关报道1]](http://www.iamt.cas.cn/zxzx/gzdt/202311/t20231102_762488.html)[[相关报道2]](http://www.iim.cas.cn/xwzx_2021/dtjx/202311/t20231102_762496.html)
 - 2023年，陈皓枫参加2024年IEEE机器人与自动化国际会议，并做了线上口头报告。
+- 2023年5月24日，通过了博士答辩。
 
 # 📝 论文专利
 
