@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士即将毕业于安徽合肥的 中国科学技术大学 科学岛研究生分院，我的导师是王晓杰研究员。本科毕业于陕西西安的 西安电子科技大学 机电工程学院。包括合著，我已经发表 10+ 篇学术论文
+我博士毕业于安徽合肥的 中国科学技术大学 科学岛研究生分院，导师是王晓杰研究员。本科毕业于陕西西安的 西安电子科技大学 机电工程学院。我已经发表 10+ 篇学术论文
  <a href='https://scholar.google.com.hk/citations?user=IBlC5j4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
@@ -49,7 +49,7 @@ redirect_from:
 - 2024年，陈皓枫参加2024年IEEE机器人与自动化国际会议，并做了线上口头报告。
 - 2024年5月24日，通过了博士答辩。
 - 2024年6月11日，我参加了2024级研究生毕业典礼，并获得了安徽省优秀毕业生奖。[[报道]](http://www.iim.cas.cn/xwzx_2021/jqyw/202406/t20240612_789131.html)
-
+- 2024年6月27日-30日，我参加了第24届电阻抗断层扫描生物医学应用国际会议。
 # 📝 论文专利
 
 ### 英文
