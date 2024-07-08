@@ -48,7 +48,7 @@ redirect_from:
 - 2023年10月27日—10月29日，王晓杰、陈皓枫参加2023第十六届中国智能机器人大会(CCIR)。[[报道]](http://www.bihfcas.net/xw/23.10.27.html)[[相关报道1]](http://www.iamt.cas.cn/zxzx/gzdt/202311/t20231102_762488.html)[[相关报道2]](http://www.iim.cas.cn/xwzx_2021/dtjx/202311/t20231102_762496.html)
 - 2024年，陈皓枫参加2024年IEEE机器人与自动化国际会议，并做了线上口头报告。
 - 2024年5月24日，通过了博士答辩。[[报道]](http://www.bihfcas.net/xw/24.06.12.html)
-- 2024年6月11日，我参加了2024级研究生毕业典礼，并获得了安徽省优秀毕业生奖。[[报道1]] (http://www.iim.cas.cn/xwzx_2021/jqyw/202406/t20240612_789131.html) [[报道2]](http://www.bihfcas.net/xw/24.06.11.html)
+- 2024年6月11日，我参加了2024级研究生毕业典礼，并获得了安徽省优秀毕业生奖。[[报道1]](http://www.iim.cas.cn/xwzx_2021/jqyw/202406/t20240612_789131.html) [[报道2]](http://www.bihfcas.net/xw/24.06.11.html)
 - 2024年6月27日-30日，我参加了第24届电阻抗断层扫描生物医学应用国际会议。[[报道]](http://www.bihfcas.net/xw/24.06.27.html)
 # 📝 论文专利
 
