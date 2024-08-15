@@ -50,6 +50,9 @@ redirect_from:
 - 2024年5月24日，通过了博士答辩。[[报道]](http://www.bihfcas.net/xw/24.06.12.html)
 - 2024年6月11日，我参加了2024级研究生毕业典礼，并获得了安徽省优秀毕业生奖。[[报道1]](http://www.iim.cas.cn/xwzx_2021/jqyw/202406/t20240612_789131.html) [[报道2]](http://www.bihfcas.net/xw/24.06.11.html)
 - 2024年6月27日-30日，我参加了第24届电阻抗断层扫描生物医学应用国际会议。[[报道]](http://www.bihfcas.net/xw/24.06.27.html)
+- 2024年7月31日，顺利达到布拉格。
+
+  
 # 📝 论文专利
 
 ### 英文
@@ -76,6 +79,15 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE ICRA 2024</div><img src='images/MMCNN.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	H. Chen, X. Yang, G. Ma, Y. Wang, and X. Wang, "Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN," in 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024: IEEE, pp. 3311-3317.   
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10610215)
+
+</div>
+</div>
+
 -	H. Chen, Ma G, Wang P, et al. A Bio-Impedance Analysis Method Based on Human Hand Anatomy for Hand Gesture Recognition [J]. IEEE Transactions on Instrumentation and Measurement, 2021, 70: 1-10.
 -	H. Chen, Yang X, Wang P, et al. A Large-Area Flexible Tactile Sensor for Multi-Touch and Force Detection Using Electrical Impedance Tomography [J]. IEEE Sensors Journal, 2022, 22(7): 7119-7129.
 -	H. Chen, Yang X, Geng J, et al. A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method [J]. ACS Applied Electronic Materials, 2023, 5(3): 1451-1460.
@@ -84,7 +96,7 @@ redirect_from:
 -	Ma G, H. Chen, Wang P, et al. A two-electrode frequency-scan system for gesture recognition [J]. Mechatronics, 2023, 94: 103039.
 -	Wang P, H. Chen, Ma G, et al. Deep learning scheme PSPNet for electrical impedance tomography[C]// Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2021. SPIE,2021: 223-230.
 -	H. Chen, Yang X, Geng J, et al. A convolutional neural network based electrical impedance tomography method for skin-like hydrogel sensing[C]// 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 5-9 Dec. 2022.2022: 178-183.
--	H. Chen, Yang X, Ma G, et al. Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN [C]//2024 IEEE International Conference on Robotics and Automation (ICRA), 2023. （已接收）
+-	H. Chen, Yang X, Ma G, et al. Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN [C]//2024 IEEE International Conference on Robotics and Automation (ICRA), 2024. 
 
   
 <!--
