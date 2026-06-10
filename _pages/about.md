@@ -43,7 +43,7 @@ redirect_from:
 
 
 # 🔥 新闻
-- 2026.06.01 — 🏆 我们的海报 **“A 3D-Printed Electrical Impedance Tomography Tactile Sensor for Scalable Coverage”** 在 ICRA 2026 Workshop **“Towards Large-Area Tactile Sensing Skins: From Scalable Materials to Embodied Robotic Perception”** 中获得 **Best Poster Award**，奥地利维也纳。[[Workshop]](https://large-area-tactile-sensing.github.io/)[[Lindin]](https://www.linkedin.com/feed/update/urn:li:activity:7467521669482430464/)
+- 2026.06.01 — 🏆 我们的海报 **“A 3D-Printed Electrical Impedance Tomography Tactile Sensor for Scalable Coverage”** 在 ICRA 2026 Workshop **“Towards Large-Area Tactile Sensing Skins: From Scalable Materials to Embodied Robotic Perception”** 中获得 **Best Poster Award**，奥地利维也纳。[[Workshop]](https://large-area-tactile-sensing.github.io/)[[linkedin]](https://www.linkedin.com/feed/update/urn:li:activity:7467521669482430464/)
 - 2026.04.07，受邀作为 Speaker 参加 RoboSoft 2026 Workshop —— "Electrical Impedance Tomography-Based Tactile Sensing: Bridging Soft Robotics and Artificial Touch"，日本金泽。[[Workshop主页]](https://sites.google.com/view/eit-robosoft-2026/home)
 - 2026.01.22，拜访了代尔夫特理工大学（TU Delft）Robert Babuška 教授的实验室，重点围绕基于学习的控制与机器人研究进行交流学习。
 - 2026.01.11-03.14，正在访问[埃因霍温理工大学](https://www.tue.nl/en/)，与 Hyosang Lee 合作开展基于电阻抗成像（EIT）的触觉传感研究。
